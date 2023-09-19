@@ -63,7 +63,7 @@ Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
 can do no more, whatever happens. What *will* become of me?”
 
-![Alt text](img/illustration-11.png)
+![Alice grows too large to fit in the house.](img/illustration-11.png)
 
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
@@ -105,7 +105,10 @@ go round and get in at the window.”
 
 “*That* you won’t!” thought Alice, and, after waiting till she fancied
 she heard the Rabbit just under the window, she suddenly spread out her
-hand, and made a snatch in the air. She did not get hold of anything,
+hand, and 
+
+![Alice tries to catch the white rabbit.](img/illustration-12.png)
+made a snatch in the air. She did not get hold of anything,
 but she heard a little shriek and a fall, and a crash of broken glass,
 from which she concluded that it was just possible it had fallen into a
 cucumber-frame, or something of the sort.
@@ -161,7 +164,11 @@ scratching and scrambling about in the chimney close above her: then,
 saying to herself “This is Bill,” she gave one sharp kick, and waited
 to see what would happen next.
 
-The first thing she heard was a general chorus of “There goes Bill!”
+The first thing she heard was a general
+
+![Bill the lizard appears from the chimney.](img/illustration-13.png)
+
+chorus of “There goes Bill!”
 then the Rabbit’s voice along—“Catch him, you by the hedge!” then
 silence, and then another confusion of voices—“Hold up his head—Brandy
 now—Don’t choke him—How was it, old fellow? What happened to you? Tell
@@ -223,7 +230,11 @@ spite of all her coaxing.
 
 Hardly knowing what she did, she picked up a little bit of stick, and
 held it out to the puppy; whereupon the puppy jumped into the air off
-all its feet at once, with a yelp of delight, and rushed at the stick,
+all its feet at once, with a yelp of delight, and rushed at
+
+![The puppy chases Alice behind a thistle.](img/illustration-14.png)
+
+the stick,
 and made believe to worry it; then Alice dodged behind a great thistle,
 to keep herself from being run over; and the moment she appeared on the
 other side, the puppy made another rush at the stick, and tumbled head
@@ -260,3 +271,12 @@ mushroom, and her eyes immediately met those of a large blue
 caterpillar, that was sitting on the top with its arms folded, quietly
 smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
+
+![The large caterpillar sits on a mushroom and smokes a hookah.](img/illustration-15.png)
+
+### List of Illustrations 
+1. Illustration One, *Alice grows too large to fit in the house.*
+2. Illustration Two, *Alice tries to catch the white rabbit.*
+3. Illustration Three, *Bill the lizard appears from the chimney.*
+4. Illustration Four, *The puppy chases Alice behind a thistle.*
+5. Illustration Five, *The large caterpillar sits on a mushroom and smokes a hookah.*
