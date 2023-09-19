@@ -63,6 +63,8 @@ Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
 can do no more, whatever happens. What *will* become of me?”
 
+![Alt text](img/illustration-11.png)
+
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
 seemed to be no sort of chance of her ever getting out of the room
