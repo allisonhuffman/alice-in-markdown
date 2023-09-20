@@ -1,0 +1,40 @@
+
+html {
+    max-width: 960px; 
+    font-family:'Merriweather Sans', sans-serif; 
+    font-size: 16px; 
+    line-height: 1.4;
+}
+
+img {
+    max-width: 500px; 
+}
+
+figure {
+    padding: 8%; 
+    margin: 5%; 
+    background-color:lightblue;
+}
+
+figcaption {
+    font-size: 90%; 
+    font-family: 'Verdana', sans-serif; 
+    color: navy;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h2, h3 {
+    color: navy;
+    text-align: center;
+}
+
+a {
+    color:black
+}
+
+figure {
+    align-content: center;
+}
