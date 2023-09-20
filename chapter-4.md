@@ -1,3 +1,4 @@
+
 ## CHAPTER IV.
 ### The Rabbit Sends in a Little Bill
 
@@ -63,7 +64,7 @@ Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
 can do no more, whatever happens. What *will* become of me?”
 
-![#image1 Alice grows too large to fit in the house.](img/illustration-11.png)
+![Alice grows too large to fit in the house.](img/illustration-11.png)
 
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
@@ -275,8 +276,8 @@ anything else.
 ![The large caterpillar sits on a mushroom and smokes a hookah.](img/illustration-15.png)
 
 ### List of Illustrations 
-1. [Illustration One, *Alice grows too large to fit in the house.*](illustration-11.png)
-2. [Illustration Two, *Alice tries to catch the white rabbit.*](illustration-12.png)
-3. [Illustration Three, *Bill the lizard appears from the chimney.*](illustration-13.png)
-4. [Illustration Four, *The puppy chases Alice behind a thistle.*](illustration-14.png)
-5. [Illustration Five, *The large caterpillar sits on a mushroom and smokes a hookah.*](illustration-15.png) 
+   - [Figure One, *Alice grows too large to fit in the house.*](#id-of-illustration-1)
+   - [Figure Two, *Alice tries to catch the white rabbit.*](#id-of-illustration-2)
+   - [Figure Three, *Bill the lizard appears from the chimney.*](#id-of-illustration-3)
+   - [Figure Four, *The puppy chases Alice behind a thistle.*](#id-of-illustration-4)
+   - [Figure Five, *The large caterpillar sits on a mushroom and smokes a hookah.*](#id-of-illustration-5) 
