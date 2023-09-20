@@ -1,5 +1,5 @@
-CHAPTER V.
-Advice from a Caterpillar
+## CHAPTER V.
+### Advice from a Caterpillar
 
 
 The Caterpillar and Alice looked at each other for some time in
@@ -80,6 +80,8 @@ came different!” Alice replied in a very melancholy voice.
 
 Alice folded her hands, and began:—
 
+![Illustration of the son watching Father William stand on his head.](img/illustration-16.png)
+
 “You are old, Father William,” the young man said,
     “And your hair has become very white;
 And yet you incessantly stand on your head—
@@ -89,6 +91,8 @@ And yet you incessantly stand on your head—
     “I feared it might injure the brain;
 But, now that I’m perfectly sure I have none,
     Why, I do it again and again.”
+
+![Illustration of the son watching Father William somersault in through the door.](img/illustration-17.png)
 
 “You are old,” said the youth, “as I mentioned before,
     And have grown most uncommonly fat;
@@ -100,6 +104,8 @@ Yet you turned a back-somersault in at the door—
 By the use of this ointment—one shilling the box—
     Allow me to sell you a couple?”
 
+![Illustration of the son and Father William at dining table.](img/illustration-18.png)
+
 “You are old,” said the youth, “and your jaws are too weak
     For anything tougher than suet;
 Yet you finished the goose, with the bones and the beak—
@@ -109,6 +115,8 @@ Yet you finished the goose, with the bones and the beak—
     And argued each case with my wife;
 And the muscular strength, which it gave to my jaw,
     Has lasted the rest of my life.”
+
+![Illustration of the son watching Father William balance an eel on his nose.](img/illustration-19.png)
 
 “You are old,” said the youth, “one would hardly suppose
     That your eye was as steady as ever;
@@ -293,3 +301,9 @@ upon an open place, with a little house in it about four feet high.
 _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+
+### List of Illustrations
+- [Figure One, _The youth watches Father William stand on his head_.](id-figure-one)
+- [Figure Two, _The son is surprised to see Father William somersault in through the door_.](id-figure-two)
+- [Figure Three, _The youth and Father William at the dining table_.](id-figure-three)
+- [Figure Four, _Father William balances an eel on his nose_.](id-figure-four)
