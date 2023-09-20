@@ -38,3 +38,8 @@ a {
 figure {
     align-content: center;
 }
+
+.song {
+    text-align: center; 
+    font-style: italic; 
+}
